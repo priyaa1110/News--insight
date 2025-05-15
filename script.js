@@ -1,5 +1,5 @@
 const apiKey = "pub_87314e4938dd3ea6c326c32d5bb1349afbf2e";
-const url = "https://newsdata.io/api/1/news?apikey=pub_87314e4938dd3ea6c326c32d5bb1349afbf2e&q=";
+const url = "https://newsdata.io/api/1/news?apikey=pub_87314e4938dd3ea6c326c32d5bb1349afbf2e&q=news&country=in&language=en,hi&category=health,politics,science,sports,technology ";
 
 window.addEventListener("load", () => fetchNews("india"));
 
