@@ -66,7 +66,7 @@ function fillDataInCard(cardClone, article) {
 
     cardClone.firstElementChild.addEventListener("click", () => {
         window.open(article.url, "_blank");
-    });
+    })
 }
 
 let curSelectedNav = null;
