@@ -17,20 +17,5 @@ This project is aimed at developers looking to understand how to build a fully f
 
 ---
 
-## 🚀 Live Demo
 
-Access the deployed project here:  
-👉 [https://your-username.github.io/news-insight/](https://your-username.github.io/news-insight/)
-
-> Make sure to replace `your-username` with your actual GitHub username.
-
----
-
-## 🛠️ Running Locally
-
-### Option 1: Quick Open in Browser
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/news-insight.git
-   cd news-insight
+ 
